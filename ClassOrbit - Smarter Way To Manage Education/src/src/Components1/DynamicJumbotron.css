@@ -1,0 +1,35 @@
+.jumbotron {
+    background-color: #003646;
+    padding: 20px;
+    display: flex;
+    align-items: flex-start;
+    color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    min-height: 150px;
+  }
+  
+  .jumbotron-content {
+    flex: 1;
+  }
+  
+  .date {
+    font-size: smaller;
+    margin: 0;
+  }
+  
+  .welcome {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  .update {
+    font-size: 1em;
+    margin: 0;
+  }
+  
+  .jumbotron-image {
+    width: 300px;
+    height: auto;
+    margin-left: 20px;};
